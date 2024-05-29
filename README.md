@@ -5,10 +5,11 @@ This project is available in multiple languages:
 - [Español](#espanol-section) 
 ___
 
-<div id="english-section"></div>
+<a id="english-section"></a>
 
 
 <h2 style="color: Black; font-size: 28px;">From Classroom to Boardroom: A Beginner's Guide to Building Azure Functions for Business Impact</h2>
+
 Welcome to our guide on setting up and using Azure Functions! This material is specifically crafted for those who are new to cloud computing and serverless architectures. Whether you're a student stepping into the world of technology or a hobbyist looking to expand your skills, this guide is intended to provide you with a clear, step-by-step introduction to developing with Azure Functions.
 
 Please note, the instructions and setups described here are designed for academic and learning purposes—they are simplified to facilitate understanding and are not meant for deployment in production environments. Our goal is to help you grasp the fundamentals without getting bogged down in the complexities often faced by experts and professionals in the field.
@@ -315,9 +316,7 @@ curl -X POST "http://localhost:7071/api/version-limit?siteUrl=https://softwareon
 ___
 ___
 
-<div id="espanol-section"></div>
-
-
+<a id="espanol-section"></a>
 
 <h2 style="color: Black; font-size: 28px;">De la Teoría a la Práctica: Guía para Principiantes en el Desarrollo de Funciones de Azure con Fines Empresariales</h2>
 ¡Bienvenido a nuestra guía sobre cómo configurar y usar Funciones de Azure! Este material está diseñado específicamente para aquellos que son nuevos en la computación en la nube y en las arquitecturas sin servidor. Ya sea que seas un estudiante entrando en el mundo de la tecnología o un aficionado buscando expandir tus habilidades, esta guía tiene como objetivo proporcionarte una introducción clara y paso a paso sobre cómo desarrollar con Funciones de Azure.
