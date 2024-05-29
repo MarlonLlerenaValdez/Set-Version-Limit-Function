@@ -3,7 +3,7 @@ This project is available in multiple languages
 ___
 
 ## English
-Go to [Español](#español) version
+ir a la versión en [Español](#español)
 
 <h2 style="color: Black; font-size: 28px;">From Classroom to Boardroom: A Beginner's Guide to Building Azure Functions for Business Impact</h2>
 Welcome to our guide on setting up and using Azure Functions! This material is specifically crafted for those who are new to cloud computing and serverless architectures. Whether you're a student stepping into the world of technology or a hobbyist looking to expand your skills, this guide is intended to provide you with a clear, step-by-step introduction to developing with Azure Functions.
