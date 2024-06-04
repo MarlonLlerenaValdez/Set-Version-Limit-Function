@@ -294,7 +294,7 @@ For detailed output, run func with --verbose flag.
 Open a new terminal in VS Code and test the function 
 
 ~~~ bash
-curl -X POST "http://localhost:7071/api/version-limit?siteUrl=https://softwareone.sharepoint.com/sites/TestMLV"
+curl -X POST "http://localhost:7071/api/version-limit?siteUrl=https://companyname.sharepoint.com/sites/TestMLV"
 ~~~
 
 ~~~ bash
